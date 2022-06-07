@@ -1,2 +1,1 @@
-# rsschool-cv 
-sdfsdfsd
+# (https://yashinki.github.io/rsschool-cv/cv)
