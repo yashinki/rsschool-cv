@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'KdamThmorPro';
+        src:url("assets/font/KdamThmorPro-Regular.ttf");
+}
+body{
+    font-family: 'KdamThmorPro';
+    }
+.header{
+        border: 1px solid red;
+    }
+.main{
+     border: 1px solid blueviolet;
+}
+.footer{
+    border: 1px solid yellow;
+}
